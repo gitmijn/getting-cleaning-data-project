@@ -10,7 +10,7 @@ The raw signals were created by 30 volunteers wearing smartphones with intnertia
 
 The source data is manipulated to produce two outputs. The variables are renamed to be the following:
 
-subjectId
+- subjectId
   - This is the id of the subject
     - 1..30
 activityId
