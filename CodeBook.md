@@ -19,7 +19,7 @@ The source data is manipulated to produce two outputs. The variables are renamed
     - 1..6
 
 ##### activityLabel
-  - The corresponding label for the activity ID
+  - The corresponding label for the activity ID. Taken from activity_labels.txt
     - 1 WALKING
     - 2 WALKING_UPSTAIRS
     - 3 WALKING_DOWNSTAIRS
@@ -28,49 +28,51 @@ The source data is manipulated to produce two outputs. The variables are renamed
     - 6 LAYING
      
 
+The rest of the variables are the means (i.e., Mean) or standard deviation (i.e., Stdev) from the file. Measurements are either time (prefix of time) or frequency. (prefix of frequency)
 
-##### timeBodyAccMeanXYZ
-##### timeBodyAccStdevXYZ
-##### timeGravityAccMeanXYZ
-##### timeGravityAccStdevXYZ
-##### timeBodyAccJerkMeanXYZ
-##### timeBodyAccJerkStdevXYZ
-##### timeBodyGyroMeanXYZ
-##### timeBodyGyroStdevXYZ
-##### timeBodyGyroJerkMeanXYZ
-##### timeBodyGyroJerkStdevXYZ
-##### timeBodyAccMagMean
-##### timeBodyAccMagStdev
-##### timeGravityAccMagMean
-##### timeGravityAccMagStdev
-##### timeBodyAccJerkMagMean
-##### timeBodyAccJerkMagStdev
-##### timeBodyGyroMagMean
-##### timeBodyGyroMagStdev
-##### timeBodyGyroJerkMagMean
-##### timeBodyGyroJerkMagStdev
-##### freqBodyAccMeanX
-##### freqBodyAccMeanY
-##### freqBodyAccMeanZ
-##### freqBodyAccStdevX
-##### freqBodyAccStdevY
-##### freqBodyAccStdevZ
-##### freqBodyAccMeanFreqXYZ
-##### freqBodyAccJerkMeanXYZ
-##### freqBodyAccJerkStdevXYZ
-##### freqBodyAccJerkMeanFreqXYZ
-##### freqBodyGyroMeanXYZ
-##### freqBodyGyroStdevXYZ
-##### freqBodyGyroMeanFreqXYZ
-##### freqBodyAccMagMean
-##### freqBodyAccMagStdev
-##### freqBodyAccMagMeanFreq
-##### freqBodyAccJerkMagMean
-##### freqBodyAccJerkMagStdev
-##### freqBodyAccJerkMagMeanFreq
-##### freqBodyGyroMagMean
-##### freqBodyGyroMagStdev
-##### freqBodyGyroMagMeanFreq
-##### freqBodyGyroJerkMagMean
-##### freqBodyGyroJerkMagStdev
-##### freqBodyGyroJerkMagMeanFreq
+| Variable Name | Variable Description |
+| timeBodyAccMeanXYZ |   |
+| timeBodyAccStdevXYZ |   |
+| timeGravityAccMeanXYZ |   |
+| timeGravityAccStdevXYZ |   |
+| timeBodyAccJerkMeanXYZ |   |
+| timeBodyAccJerkStdevXYZ |   |
+| timeBodyGyroMeanXYZ |   |
+| timeBodyGyroStdevXYZ |   |
+| timeBodyGyroJerkMeanXYZ |   |
+| timeBodyGyroJerkStdevXYZ |   |
+| timeBodyAccMagMean |   |
+| timeBodyAccMagStdev |   |
+| timeGravityAccMagMean |   |
+| timeGravityAccMagStdev |   |
+| timeBodyAccJerkMagMean |   |
+| timeBodyAccJerkMagStdev |   |
+| timeBodyGyroMagMean |   |
+| timeBodyGyroMagStdev |   |
+| timeBodyGyroJerkMagMean |   |
+| timeBodyGyroJerkMagStdev |   |
+| freqBodyAccMeanX |   |
+| freqBodyAccMeanY |   |
+| freqBodyAccMeanZ |   |
+| freqBodyAccStdevX |   |
+| freqBodyAccStdevY |   |
+| freqBodyAccStdevZ |   |
+| freqBodyAccMeanFreqXYZ |   |
+| freqBodyAccJerkMeanXYZ |   |
+| freqBodyAccJerkStdevXYZ |   |
+| freqBodyAccJerkMeanFreqXYZ |   |
+| freqBodyGyroMeanXYZ |   |
+| freqBodyGyroStdevXYZ |   |
+| freqBodyGyroMeanFreqXYZ |   |
+| freqBodyAccMagMean |   |
+| freqBodyAccMagStdev |   |
+| freqBodyAccMagMeanFreq |   |
+| freqBodyAccJerkMagMean |   |
+| freqBodyAccJerkMagStdev |   |
+| freqBodyAccJerkMagMeanFreq |   |
+| freqBodyGyroMagMean |   |
+| freqBodyGyroMagStdev |   |
+| freqBodyGyroMagMeanFreq |   |
+| freqBodyGyroJerkMagMean |   |
+| freqBodyGyroJerkMagStdev |   |
+| freqBodyGyroJerkMagMeanFreq |   |
