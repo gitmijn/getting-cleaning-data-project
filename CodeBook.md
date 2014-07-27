@@ -28,7 +28,7 @@ The source data is manipulated to produce two outputs. The variables are renamed
     - 6 LAYING
      
 
-The rest of the variables are the means (i.e., Mean) or standard deviation (i.e., Stdev) from the file. Measurements are either time (prefix of time) or frequency. (prefix of frequency)
+The rest of the variables are the means (i.e., Mean) or standard deviation (i.e., Stdev) from the file. Measurements are either time (prefix of time) or frequency. (prefix of frequency). More information on each of the renamed variables can be found in the file `./UCI HAR Dataset/features_info.txt`
 
 | Variable Name               |
 |-----------------------------|
