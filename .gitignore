@@ -2,7 +2,7 @@
 .DS_Store
 
 # VIM swap files
-.swp
+*.swp
 
 # History files
 .Rhistory
