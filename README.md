@@ -5,7 +5,7 @@ Repo for the submission of the course project for the Johns Hopkins Getting and 
 
 ### Overview
 
-This project analyzes a [data set captured by motions sensors](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) by performing physical activities. The goal was to demonstrate getting and cleaning data to make it a [tidy data set](http://vita.had.co.nz/papers/tidy-data.pdf).
+This project analyzes a [data set captured by inertial sensors](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) by performing physical activities. The goal was to demonstrate getting and cleaning data to make it a [tidy data set](http://vita.had.co.nz/papers/tidy-data.pdf).
 
 __Note__: The explantion of this data source can be found on the [UC Irvine Machine Learning Repository page](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
@@ -13,9 +13,10 @@ __Note__: The explantion of this data source can be found on the [UC Irvine Mach
 
 To run this script, you will need a current version of R, the dataset and a couple additional R libraries. To run the script, do the following:
 1. Clone this repository to a directory.
-2. Download and unzip the data into that directory.
-3. Source *run_analysis.R*
-4. Two space delimited files will be created. They can be imported into Excel or other spreadsheet programs by using spaces as a delimiter.
+2. Set your working directory to that directory (*e.g., setwd("your/cloned/repo/here")*).
+3. Download and unzip the data into that directory.
+4. Source *run_analysis.R*
+5. Two space delimited files will be created. They can be imported into Excel or other spreadsheet programs by using spaces as a delimiter.
 
 ### Key Decisions Made While Tidying the Data
 - In this case, camelCase made more sense given the information contained within the long variable names.

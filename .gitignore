@@ -1,6 +1,8 @@
 # Mac OS X Files
 .DS_Store
 
+# VIM swap files
+.swp
 
 # History files
 .Rhistory
