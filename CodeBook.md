@@ -10,56 +10,56 @@ The raw signals were created by 30 volunteers wearing smartphones with intnertia
 
 The source data is manipulated to produce two outputs. The variables are renamed to be the following:
 
-** subjectId **
+##### subjectId
   - This is the id of the subject
     - 1..30
-** activityId **
+##### activityId
   - The id of the activity, (*e.g., WALKING*).
     - 1..6
 
-activityLabel
-timeBodyAccMeanXYZ
-timeBodyAccStdevXYZ
-timeGravityAccMeanXYZ
-timeGravityAccStdevXYZ
-timeBodyAccJerkMeanXYZ
-timeBodyAccJerkStdevXYZ
-timeBodyGyroMeanXYZ
-timeBodyGyroStdevXYZ
-timeBodyGyroJerkMeanXYZ
-timeBodyGyroJerkStdevXYZ
-timeBodyAccMagMean
-timeBodyAccMagStdev
-timeGravityAccMagMean
-timeGravityAccMagStdev
-timeBodyAccJerkMagMean
-timeBodyAccJerkMagStdev
-timeBodyGyroMagMean
-timeBodyGyroMagStdev
-timeBodyGyroJerkMagMean
-timeBodyGyroJerkMagStdev
-freqBodyAccMeanX
-freqBodyAccMeanY
-freqBodyAccMeanZ
-freqBodyAccStdevX
-freqBodyAccStdevY
-freqBodyAccStdevZ
-freqBodyAccMeanFreqXYZ
-freqBodyAccJerkMeanXYZ
-freqBodyAccJerkStdevXYZ
-freqBodyAccJerkMeanFreqXYZ
-freqBodyGyroMeanXYZ
-freqBodyGyroStdevXYZ
-freqBodyGyroMeanFreqXYZ
-freqBodyAccMagMean
-freqBodyAccMagStdev
-freqBodyAccMagMeanFreq
-freqBodyAccJerkMagMean
-freqBodyAccJerkMagStdev
-freqBodyAccJerkMagMeanFreq
-freqBodyGyroMagMean
-freqBodyGyroMagStdev
-freqBodyGyroMagMeanFreq
-freqBodyGyroJerkMagMean
-freqBodyGyroJerkMagStdev
-freqBodyGyroJerkMagMeanFreq
+##### activityLabel
+##### timeBodyAccMeanXYZ
+##### timeBodyAccStdevXYZ
+##### timeGravityAccMeanXYZ
+##### timeGravityAccStdevXYZ
+##### timeBodyAccJerkMeanXYZ
+##### timeBodyAccJerkStdevXYZ
+##### timeBodyGyroMeanXYZ
+##### timeBodyGyroStdevXYZ
+##### timeBodyGyroJerkMeanXYZ
+##### timeBodyGyroJerkStdevXYZ
+##### timeBodyAccMagMean
+##### timeBodyAccMagStdev
+##### timeGravityAccMagMean
+##### timeGravityAccMagStdev
+##### timeBodyAccJerkMagMean
+##### timeBodyAccJerkMagStdev
+##### timeBodyGyroMagMean
+##### timeBodyGyroMagStdev
+##### timeBodyGyroJerkMagMean
+##### timeBodyGyroJerkMagStdev
+##### freqBodyAccMeanX
+##### freqBodyAccMeanY
+##### freqBodyAccMeanZ
+##### freqBodyAccStdevX
+##### freqBodyAccStdevY
+##### freqBodyAccStdevZ
+##### freqBodyAccMeanFreqXYZ
+##### freqBodyAccJerkMeanXYZ
+##### freqBodyAccJerkStdevXYZ
+##### freqBodyAccJerkMeanFreqXYZ
+##### freqBodyGyroMeanXYZ
+##### freqBodyGyroStdevXYZ
+##### freqBodyGyroMeanFreqXYZ
+##### freqBodyAccMagMean
+##### freqBodyAccMagStdev
+##### freqBodyAccMagMeanFreq
+##### freqBodyAccJerkMagMean
+##### freqBodyAccJerkMagStdev
+##### freqBodyAccJerkMagMeanFreq
+##### freqBodyGyroMagMean
+##### freqBodyGyroMagStdev
+##### freqBodyGyroMagMeanFreq
+##### freqBodyGyroJerkMagMean
+##### freqBodyGyroJerkMagStdev
+##### freqBodyGyroJerkMagMeanFreq
